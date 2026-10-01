@@ -1,0 +1,14 @@
+*.csv
+*.zip
+*.rar
+*.bak
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+node_modules/
+venv/
+.venv/
+__pycache__/
+.vscode/
